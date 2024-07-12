@@ -1,0 +1,35 @@
+#name{
+  margin-top: 0px;
+  margin-bottom: 10px;
+  display: flex;
+
+}
+#link{
+  margin-top: 5px;
+  margin-left: 2px;
+  margin-right: 5px;
+  display: flex;
+}
+#link2{
+  margin-top: 8px;
+  margin-left: 2px;
+  margin-right: 5px;
+  display: flex;
+}
+
+.profile-container {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  padding-left: 10px
+  
+}
+
+.profile-pic {
+  width: 100px;
+  height: 124px;
+  margin-right: 15px;
+}
+#mail1{
+  padding-left: 2px;
+}
